@@ -1,0 +1,13 @@
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\bin\Debug\INSULTYOURSELF - Let your PC insult you.exe.config
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\bin\Debug\INSULTYOURSELF - Let your PC insult you.exe
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\bin\Debug\INSULTYOURSELF - Let your PC insult you.pdb
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\bin\Debug\INSULTYOURSELF - Let your PC insult you.xml
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF___Let_your_PC_insult_you.Form1.resources
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF___Let_your_PC_insult_you.Resources.resources
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF - Let your PC insult you.vbproj.GenerateResource.Cache
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF - Let your PC insult you.exe
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF - Let your PC insult you.xml
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF - Let your PC insult you.pdb
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF___Let_your_PC_insult_you.Form2.resources
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF___Let_your_PC_insult_you.Form3.resources
+c:\users\devsoft's beau\documents\visual studio 2015\Projects\INSULTYOURSELF\INSULTYOURSELF - Let your PC insult you\obj\Debug\INSULTYOURSELF___Let_your_PC_insult_you.WindowControl.resources
